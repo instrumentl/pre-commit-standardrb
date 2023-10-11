@@ -34,4 +34,4 @@ repos:
         types: ["ruby"]
         verbose: true
         additional_dependencies:
-          - "standard:1.31.1"
+          - "standard:1.31.2"
