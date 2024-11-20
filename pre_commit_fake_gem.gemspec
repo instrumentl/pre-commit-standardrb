@@ -4,6 +4,6 @@ Gem::Specification.new do |s|
   s.authors = ["Jamie Alessio"]
   s.summary = "A fake gem for pre-commit-standardrb"
   s.description = "A fake gem for pre-commit-standardrb"
-  s.add_dependency "standard", "1.42.0"
+  s.add_dependency "standard", "1.42.1"
   s.required_ruby_version = ">= 3.0"
 end
