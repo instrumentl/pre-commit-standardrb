@@ -5,5 +5,5 @@ Gem::Specification.new do |s|
   s.summary = "A fake gem for pre-commit-standardrb"
   s.description = "A fake gem for pre-commit-standardrb"
   s.add_dependency "standard", "1.44.0"
-  s.required_ruby_version = ">= 3.0"
+  s.required_ruby_version = ">= 3.3"
 end
